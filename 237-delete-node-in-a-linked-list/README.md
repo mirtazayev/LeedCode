@@ -1,5 +1,5 @@
 ## 237. Delete Node in a Linked List
-###Medium
+### Medium
 
 There is a singly-linked list head and we want to delete a node node in it.
 
