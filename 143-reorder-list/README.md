@@ -17,6 +17,7 @@ Output: [1,4,2,3]
 
 # Example 2:
 ![Example 2](https://assets.leetcode.com/uploads/2021/03/09/reorder2-linked-list.jpg)
+
 Input: head = [1,2,3,4,5]\
 Output: [1,5,2,4,3]
 
