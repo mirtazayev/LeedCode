@@ -5,3 +5,4 @@ class Solution:
         """
         k = k % len(nums)
         nums[:] = nums[::-1][:k][::-1] + nums[::-1][k:][::-1]
+
